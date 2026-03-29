@@ -60,7 +60,7 @@ Machine Learning | Statistical Modeling | Data Visualization | Econometrics
 ---
 
 ## Live Portfolio
-https://nida-muhammad-umer.github.io
+https://nidamuhammadumer.netlify.app/
 
 ---
 
